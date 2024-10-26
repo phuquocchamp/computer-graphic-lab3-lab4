@@ -47,6 +47,15 @@ make
 ```bash
 ./app
 ```
+---
+## Demo:
+![alt text](./images/image.png)
+
+![alt text](./images/image-1.png)
+
+![alt text](./images/image-2.png)
+
+![alt text](./images/image-3.png)
 
 ## 1. Cài Đặt Các Phép Biến Đổi 3D
 
